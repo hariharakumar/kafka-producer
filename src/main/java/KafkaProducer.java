@@ -14,7 +14,7 @@ public class KafkaProducer {
             System.exit(-1);
         }
 
-        String topicName = args[1];
+        String topicName = args[0];
         in = new Scanner(System.in);
         System.out.println("Start entering messages - type exit to quit");
 
