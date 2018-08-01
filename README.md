@@ -4,7 +4,7 @@ Build the Jar : gradle clean build fatjar -x test
 
 Run the application :
 
-java -jar <jarForApplication> <topicName>
+java -jar [jarForApplication] [topicName]
 
 We need to pass 1 command line arguement : topicName when starting the application.
 
