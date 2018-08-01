@@ -12,3 +12,5 @@ Ex : java -jar build/2419060/kafka-producer-2419060-all-1.0-SNAPSHOT.jar hari
 
 After you start the application, you can start sending messages by typing in the console - these messages will be sent to the kafka topic specified as
 command line argument.
+
+You can type exit anytime to exit the producer application.
