@@ -8,7 +8,7 @@ Run the application :
 
 java -jar [jarForApplication] [topicName]
 
-We need to pass 1 command line arguement : topicName when starting the application.
+We need to pass 1 command line arguement when running the application: topicName when starting the application.
 
 Ex : java -jar build/2419060/kafka-producer-2419060-all-1.0-SNAPSHOT.jar hari
 
